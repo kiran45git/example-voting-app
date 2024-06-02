@@ -1,4 +1,4 @@
-version: '3.9'  # or 'compose_spec'
+version: '3.9'
 
 services:
   vote:
